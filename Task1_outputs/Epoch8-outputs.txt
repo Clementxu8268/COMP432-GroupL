@@ -1,0 +1,9 @@
+Epoch [1/8], Loss: 0.5251, Accuracy: 79.69%
+Epoch [2/8], Loss: 0.3414, Accuracy: 87.48%
+Epoch [3/8], Loss: 0.2929, Accuracy: 88.81%
+Epoch [4/8], Loss: 0.2563, Accuracy: 90.31%
+Epoch [5/8], Loss: 0.2063, Accuracy: 92.69%
+Epoch [6/8], Loss: 0.2136, Accuracy: 92.05%
+Epoch [7/8], Loss: 0.1828, Accuracy: 93.50%
+Epoch [8/8], Loss: 0.1495, Accuracy: 94.40%
+Test Accuracy: 92.94%
