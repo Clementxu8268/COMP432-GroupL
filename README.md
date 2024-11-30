@@ -76,8 +76,9 @@ The dataset3 is located in the directory ./Dataset3/AnimalFaces and contains thr
 
 
 ## 5. Instructions on how to run the pre-trained model on the provided sample test dataset
-This script uses a pre-trained ResNet-18 model to extract features from two datasets: Dataset 2 (Prostate Cancer) and Dataset 3 (Animal Faces). The extracted features are visualized in 2D using t-SNE, showcasing the separability of different classes within each dataset.
-     **Run the Notebook**   
+This script uses a pre-trained ResNet-18 model to extract features from two datasets: Dataset 2 (Prostate Cancer) and Dataset 3 (Animal Faces). The extracted features are visualized in 2D using t-SNE, showcasing the separability of different classes within each dataset.  
+
+   **Run the Notebook**     
    Execute the cells step-by-step. Key sections include:  
    1. Load a pre-trained ResNet-18 model and applies it toDataset 2 (Prostate Cancer) and Dataset 3 (Animal Faces) for feature extraction. The extracted features are visualized in 2D using t-SNE to analyze class separability.
    2. Generates confusion matrices.
