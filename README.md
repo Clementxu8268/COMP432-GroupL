@@ -52,7 +52,7 @@ The dataset1 is located in the directory ./Dataset1/ColorectalCancer and contain
 - NORM
 - STR 
 
-   **Run the Notebook for task1**  
+   **Run the Notebook for task1: task1.ipynb**  
    Execute the cells step-by-step. Key sections include:
    
    1. Data Preprocessing and Splitting: Loads and preprocesses images, splits into training and validation sets.
@@ -69,7 +69,7 @@ The dataset2 is located in the directory ./Dataset2/ProstateCancer and contains 
 - nongland
 - tumor
   
-   **Run the Notebook for task2**     
+   **Run the Notebook for task2: task2_dataset2.ipynb**     
    Execute the cells step-by-step. Key sections include:  
    1. Load a saved ResNet-18 model and applies it to Dataset 2 (Prostate Cancer) for feature extraction. The extracted features are visualized in 2D using t-SNE to analyze class separability.
    2. Generates confusion matrices.
@@ -80,7 +80,7 @@ The dataset3 is located in the directory ./Dataset3/AnimalFaces and contains thr
 - dog
 - wild
 
-     **Run the Notebook for task3**   
+     **Run the Notebook for task2: task2_dataset3.ipynb**   
    Execute the cells step-by-step. Key sections include:  
    1. Load a saved ResNet-18 model and applies it to Dataset 3 (Animal Faces) for feature extraction. The extracted features are visualized in 2D using t-SNE to analyze class separability.
    2. Generates confusion matrices.
